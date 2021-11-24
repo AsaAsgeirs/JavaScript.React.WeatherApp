@@ -19,6 +19,7 @@ I learned alot after following this tutorial and it was really fun to make. I th
 
 Overall it was a fun project :)
 
+<img width="374" alt="React WeatherApp" src="https://user-images.githubusercontent.com/89387153/143266949-122d31f0-1238-470f-9b96-0353c8b8f222.png">
 
 
 
