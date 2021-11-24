@@ -5,6 +5,8 @@
 I made an mobile weather app where you can search for a city and you will get the city or country name, date and temperature. When you open the app you will get a search bar in the top and an landscape image of a mountain but when the degrees Celsius go above 12°c the background image changes to a more warm landscape.
 
 Only thing that I couldn't fix was that some cities or even countries that you look up will go to towns in the US, like Rome, Greenland. I'm not sure if it is my code or if it is the API, I tried to fix it but I could not solve it. But if you have a better understanding then I do about APIs or coding and you have a suggestion how I could fix the problem then I'm all ears!
+
+
 <img width="374" alt="React WeatherApp" src="https://user-images.githubusercontent.com/89387153/143266949-122d31f0-1238-470f-9b96-0353c8b8f222.png">
 
 # API 
