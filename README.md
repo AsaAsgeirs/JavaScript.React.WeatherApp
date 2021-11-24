@@ -1,6 +1,6 @@
 # Weather App - React with API
 
-**NOTE: As it is an mobile app you will have to resize your browser or open the link in your mobile phone.**
+**NOTE: It is an mobile app you will have to resize your browser or open the link in your mobile phone.**
 
 I made an mobile weather app where you can search for a city and you will get the city or country name, date and temperature. When you open the app you will get a search bar in the top and an landscape image of a mountain but when the degrees Celsius go above 12°c the background image changes to a more warm landscape.
 
